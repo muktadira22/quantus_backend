@@ -11,7 +11,6 @@
 <br>
 <h4>Start Project</h4>
 <ul>
-  <li>$ > cd backend</li> 
   <li>backend > npm install</li> 
   <li>backend > npm start</li>
 </ul>
